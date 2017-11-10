@@ -1,17 +1,17 @@
-/*body
+body
 {
-    background: blueviolet
-}*/
+    background:url("https://1.bp.blogspot.com/-xwaSHEX2Jkg/Vu-ZrhdfIcI/AAAAAAAACb4/LkHSZlfZtdQr_xUlsWLZohHVz3qnZaILA/s1600/21.png");
+}
 
 #menu
 {
-   background: rgb(43, 226, 156);
+   background: rgb(161, 5, 0);
      /*border-top: 15px orange
     border-right: 5px orangered
     border_bottom: 5px orangered
     border-left: 10px orange
     */
-    border: 20px solid black;
+    border: 10px solid black;
 }
 
 .sinopsis
